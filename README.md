@@ -5,4 +5,6 @@ Questa repo contiene una raccolta di esercizi eseguiti durante lo studio univers
 
 Altri esercizi invece sono svolti seguendo i tutorial presenti sul sito di [W3Schools](https://www.w3schools.com/); anche in questo caso le rielaborazioni sono fatte a solo scopo didattico e senza finalità di sponsorizzazione o altro tipo di relazione con la piattaforma, con la quale non ho alcun tipo di legame o partnership.
 
+La maggior parte degli esercizi è implementata con linguaggio Python.
+
 Si prega di rispettare i termini di licenza descritti nel file `LICENSE.md`
