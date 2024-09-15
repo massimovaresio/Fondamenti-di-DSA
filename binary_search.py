@@ -32,7 +32,7 @@ my_list = [1,3,5,7,9,11,13,15,17,19,21,23,25]
 print(binary_search(my_list, 3))  # Deve restituire posizione 1
 
 # Stampa la posizione dell'elemento 23 (che si trova nella posizione 11)
-print(binary_search(my_list, 23)) # Deve restituire posizione 1
+print(binary_search(my_list, 23)) # Deve restituire posizione 11
 
 # Cerca un elemento che non è nella lista, restituisce None
 print(binary_search(my_list, -1)) # None, questo numero non è presente nella lista
